@@ -1,0 +1,16 @@
+[
+{
+  "modid": "custom_iconsets",
+  "name": "Custom Iconsets",
+  "description": "Allows you to add custom iconsets to Gregtech CEu",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Filostorm", "Hua En", "LordPINE"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
